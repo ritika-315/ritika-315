@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika Srivastava</h1>
 <h3 align="center">I am currently a 4th year CS student</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
+<!-- <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-315&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-315" /> </p>
 
